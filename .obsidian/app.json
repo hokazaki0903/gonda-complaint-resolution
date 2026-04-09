@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 16,
+  "translucency": false,
+  "showInlineTitle": true,
+  "promptDelete": true,
+  "showLineNumber": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "root",
+  "newFileFolderPath": "00_inbox",
+  "attachmentFolderPath": "assets"
+}
